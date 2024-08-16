@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday Sam!</string>
+    <string name="signature_text">From Emma</string>
+    <string name="happy_birthday_sam">Jetpack Compose tutorial</string>
+    <string name="from_emma">From Emma</string>
+    <string name="hi">hi</string>
+</resources>
